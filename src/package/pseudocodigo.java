@@ -1,12 +1,23 @@
-
+//Esto es para el scanner
+import java.util.Scanner;
+//Hasta acá
 public class pseudocodigo{
     public static void main(String[] args)
     {
         // Inicio
         double areav2;
         int ladox;
+
+        //Esto es para el scanner
+        //Inicializar Scanner
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Ingrese el lado");
         //     Leemos el valor de un lado del cuadrado
-        ladox=3;
+        // Sin Scanner
+        // ladox=3;
+        ladox = sc.nextInt();
+        //Hasta acá
+
         //     Calcular Area del Cuadrado: Area = lado * lado
         areav2 = ladox*ladox;
         //     Mostrar mensaje el "Area es"
