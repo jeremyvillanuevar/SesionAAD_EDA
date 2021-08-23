@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -24,7 +31,14 @@
       <recent name="C:\Users\Usuario\Documents\GitHub\SesionAAD_EDA\src\package" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.arreglopregunta0a">
+    <configuration name="arreglopregunta0a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arreglopregunta0a" />
+      <module name="JavaEDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pseudocodigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pseudocodigo" />
       <module name="JavaEDA" />
@@ -32,8 +46,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="selectivaspregunta0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selectivaspregunta0" />
+      <module name="JavaEDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arreglopregunta0a" />
+        <item itemvalue="Application.selectivaspregunta0" />
         <item itemvalue="Application.pseudocodigo" />
       </list>
     </recent_temporary>
