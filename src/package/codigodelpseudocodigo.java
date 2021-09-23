@@ -1,7 +1,8 @@
+
 //Esto es para el scanner
 import java.util.Scanner;
 //Hasta acá
-public class pseudocodigo{
+public class codigodelpseudocodigo {
     public static void main(String[] args)
     {
         // Inicio
