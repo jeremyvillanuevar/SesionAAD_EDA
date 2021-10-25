@@ -46,23 +46,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pilapregunta1">
-    <configuration name="colapregunta0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colapregunta0" />
+  <component name="RunManager" selected="Application.codigodelpseudocodigoparalapc">
+    <configuration name="areadelcuadrado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areadelcuadrado" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="colapregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colapregunta1" />
+    <configuration name="areadelcuadradoconescaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areadelcuadradoconescaner" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pilapregunta0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pilapregunta0" />
+    <configuration name="codigodelpseudocodigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codigodelpseudocodigo" />
+      <module name="JavaEDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codigodelpseudocodigoparalapc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codigodelpseudocodigoparalapc" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,20 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="recursividadpregunta0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursividadpregunta0" />
-      <module name="JavaEDA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.codigodelpseudocodigoparalapc" />
+        <item itemvalue="Application.codigodelpseudocodigo" />
+        <item itemvalue="Application.areadelcuadradoconescaner" />
+        <item itemvalue="Application.areadelcuadrado" />
         <item itemvalue="Application.pilapregunta1" />
-        <item itemvalue="Application.colapregunta1" />
-        <item itemvalue="Application.pilapregunta0" />
-        <item itemvalue="Application.colapregunta0" />
-        <item itemvalue="Application.recursividadpregunta0" />
       </list>
     </recent_temporary>
   </component>
@@ -122,16 +122,6 @@
           <url>file://$PROJECT_DIR$/src/package/recursividadpregunta0.java</url>
           <line>26</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/package/codigodelpseudocodigo.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/package/recursividadpregunta0.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/colapregunta0.java</url>
