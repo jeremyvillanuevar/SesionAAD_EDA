@@ -46,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.codigodelpseudocodigoparalapc">
+  <component name="RunManager" selected="Application.arreglopregunta1a">
     <configuration name="areadelcuadrado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areadelcuadrado" />
       <module name="JavaEDA" />
@@ -56,6 +56,13 @@
     </configuration>
     <configuration name="areadelcuadradoconescaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areadelcuadradoconescaner" />
+      <module name="JavaEDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arreglopregunta1a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arreglopregunta1a" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,20 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pilapregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pilapregunta1" />
-      <module name="JavaEDA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arreglopregunta1a" />
         <item itemvalue="Application.codigodelpseudocodigoparalapc" />
         <item itemvalue="Application.codigodelpseudocodigo" />
         <item itemvalue="Application.areadelcuadradoconescaner" />
         <item itemvalue="Application.areadelcuadrado" />
-        <item itemvalue="Application.pilapregunta1" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +137,16 @@
           <url>file://$PROJECT_DIR$/src/pilapregunta1.java</url>
           <line>16</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codigodelpseudocodigoparalapc.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arreglopregunta1a.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
