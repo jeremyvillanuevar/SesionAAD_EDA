@@ -13,7 +13,7 @@ public class AAD2_E1_Jeremy{
 
         //Inicializar las constantes
         //Unidad Impositiva Tributaria = 3,600.00
-        double unidadimpositivatributaria= 4250.00;
+        double unidadimpositivatributaria= 3600.00;
         //cantidad de sueldos que percibe la persona al año = 14
         double cantidaddesueldosquepercibelapersonaalaño = 14.0;
         //deducción legal = 7 UIT
