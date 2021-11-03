@@ -46,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AAD2_E1_Jeremy">
+  <component name="RunManager" selected="Application.arreglopregunta1a">
     <configuration name="AAD2_E1_Jeremy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AAD2_E1_Jeremy" />
       <module name="JavaEDA" />
@@ -54,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="areadelcuadradoconescaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="areadelcuadradoconescaner" />
+    <configuration name="arreglopregunta0a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arreglopregunta0a" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AAD2_E1_Jeremy" />
         <item itemvalue="Application.arreglopregunta1a" />
+        <item itemvalue="Application.arreglopregunta0a" />
+        <item itemvalue="Application.AAD2_E1_Jeremy" />
         <item itemvalue="Application.codigodelpseudocodigoparalapc" />
         <item itemvalue="Application.codigodelpseudocodigo" />
-        <item itemvalue="Application.areadelcuadradoconescaner" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +152,11 @@
           <url>file://$PROJECT_DIR$/src/AAD2_E1_Jeremy.java</url>
           <line>15</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arreglopregunta0a.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

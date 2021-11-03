@@ -9,12 +9,12 @@ public class arreglopregunta1a {
         ventaheladospormes[1]=27;
         ventaheladospormes[2]=36;
         //declarar temporal de la operacion que haremos: mayor
-        //y le damos el valor del primer mes
-        int comparadomayor = ventaheladospormes[0];
-        //Todos los elementos mes el valor ya puesto en el temporal
+        //y le damos el valor de 0
+        int comparadomayor = 0;
+        //Todos los elementos mes con el temporal
         // se realiza la acción de comparar
 
-        for (int i = 1; i < ventaheladospormes.length; i++) {
+        for (int i = 0; i < ventaheladospormes.length; i++) {
             if (comparadomayor < ventaheladospormes[i])
             {
                 comparadomayor=ventaheladospormes[i];
