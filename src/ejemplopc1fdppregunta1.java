@@ -12,43 +12,49 @@ public class ejemplopc1fdppregunta1 {
 
         //Entrar valores de vendedores
         //String vendedor = "Hugo";
-        String [] vendedores = {"Hugo","Mariana","Luis","Jennifer","Jorge","Valeria","Manuel"};
+        String[] vendedores = {"Hugo", "Mariana", "Luis", "Jennifer", "Jorge", "Valeria", "Manuel"};
         //Entrar valores de ventas
-        int [] ventas = {15,16,1,0,4,15,13};
+        int[] ventas = {15, 16, 1, 0, 4, 15, 13};
         //El tamaño del arreglo es cantidad de posiciones = arreglo.length
         //Las posiciones del arreglo comienzan en 0 hasta la cantidad-1
 
-        int suma=CalculoTotaldeVentas(ventas);
+        int suma = CalculoTotaldeVentas(ventas);
 
-        System.out.println("La venta total de unidades es de: "+suma);
-        double porcentajecuotaalcanzada=CalculoPorcentajeCuotaAlcanzada(ventas);
+        System.out.println("La venta total de unidades es de: " + suma);
+        double porcentajecuotaalcanzada = CalculoPorcentajeCuotaAlcanzada(ventas);
 
-        System.out.println("El porcentaje de cuota alcanzada es de: "+porcentajecuotaalcanzada+"%");
+        System.out.println("El porcentaje de cuota alcanzada es de: " + porcentajecuotaalcanzada + "%");
 
-        String [] vendedoresalcanzaroncuota=obtenerVendedoresAlcanzanCuota(ventas,vendedores);
+        String[] vendedoresalcanzaroncuota = obtenerVendedoresAlcanzanCuota(ventas, vendedores);
 
         System.out.println("Los que alcanzaron la cuota son los siguientes:");
 
-        for (int i=0;i<=vendedoresalcanzaroncuota.length-1;i++)
-        {
-            System.out.println("Vendedor: "+vendedoresalcanzaroncuota[i]);
+        for (int i = 0; i <= vendedoresalcanzaroncuota.length - 1; i++) {
+            System.out.println("Vendedor: " + vendedoresalcanzaroncuota[i]);
         }
 
         //int comision = 300*suma;
         int comision = obtenerComision(ventas);
-        System.out.println("La comisión es de: "+comision);
+        System.out.println("La comisión es de: " + comision);
 
         //Ejemplo Tipo EF
-        String [] union = unirArreglos(vendedores , ventas);
-        for (int i=0;i<=union.length-1;i++)
-        {
-            System.out.println("Unidos: "+union[i]);
+        String[] union = unirArreglos(vendedores, ventas);
+        for (int i = 0; i <= union.length - 1; i++) {
+            System.out.println("Unidos: " + union[i]);
         }
         //Ejemplo Tipo EF
 
-        String [] zonaVendedores = {"Lima","Huancayo","Huanuco","Huancayo","Huancayo","Huancayo","Huanuco"};
-        int ctvz=CalculoTotaldeVentasdeVendedorenZona(vendedores,zonaVendedores,ventas,"Hugo","Lima");
-        System.out.println("CalculoTotaldeVentasdeVendedorenZona Hugo Lima: "+ctvz);
+        String[] zonaVendedores = {"Lima", "Huancayo", "Huanuco", "Huancayo", "Huancayo", "Huancayo", "Huanuco"};
+        int ctvz = CalculoTotaldeVentasdeVendedorenZona(vendedores, zonaVendedores, ventas, "Hugo", "Lima");
+        System.out.println("CalculoTotaldeVentasdeVendedorenZona Hugo Lima: " + ctvz);
+        int contadorvendedores = 0;
+        while (contadorvendedores < vendedores.length) {
+            contadorvendedores=contadorvendedores+1;
+            System.out.println("Vendedor "+contadorvendedores);
+        }
+
+
+
     }
 
     //Calculo de total de ventas

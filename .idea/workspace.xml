@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75f81cee-e4d0-4dc1-bc0e-07c41dc92b2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejemplopc1fdppregunta2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejemplopc1fdppregunta1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejemplopc1fdppregunta1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ejemplopc1fdppregunta2">
+  <component name="RunManager" selected="Application.ejemplopc1fdppregunta1">
     <configuration name="arreglopregunta0a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arreglopregunta0a" />
       <module name="JavaEDA" />
@@ -87,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ejemplopc1fdppregunta2" />
         <item itemvalue="Application.ejemplopc1fdppregunta1" />
+        <item itemvalue="Application.ejemplopc1fdppregunta2" />
         <item itemvalue="Application.ejemplopc1fdppregunta0" />
         <item itemvalue="Application.arreglopregunta1a" />
         <item itemvalue="Application.arreglopregunta0a" />
@@ -168,13 +167,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ejemplopc1fdppregunta1.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="22" />
+          <line>152</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ejemplopc1fdppregunta1.java</url>
-          <line>146</line>
-          <option name="timeStamp" value="25" />
+          <line>49</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
