@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75f81cee-e4d0-4dc1-bc0e-07c41dc92b2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejemplopc1fdppregunta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplopc1fdppregunta2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaEDA/ejemplopc1pregunta0.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ejemplopc1fdppregunta1">
-    <configuration name="AAD2_E1_Jeremy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AAD2_E1_Jeremy" />
-      <module name="JavaEDA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ejemplopc1fdppregunta2">
     <configuration name="arreglopregunta0a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arreglopregunta0a" />
       <module name="JavaEDA" />
@@ -86,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejemplopc1fdppregunta2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplopc1fdppregunta2" />
+      <module name="JavaEDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejemplopc1fdppregunta2" />
         <item itemvalue="Application.ejemplopc1fdppregunta1" />
         <item itemvalue="Application.ejemplopc1fdppregunta0" />
         <item itemvalue="Application.arreglopregunta1a" />
         <item itemvalue="Application.arreglopregunta0a" />
-        <item itemvalue="Application.AAD2_E1_Jeremy" />
       </list>
     </recent_temporary>
   </component>
@@ -174,8 +173,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ejemplopc1fdppregunta1.java</url>
-          <line>123</line>
-          <option name="timeStamp" value="24" />
+          <line>146</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
