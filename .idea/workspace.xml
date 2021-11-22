@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75f81cee-e4d0-4dc1-bc0e-07c41dc92b2f" name="Changes" comment="" />
+    <list default="true" id="75f81cee-e4d0-4dc1-bc0e-07c41dc92b2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AAD6_E2_Jeremy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,16 +49,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AAD7_E1_Jeremy">
-    <configuration name="AAD7_E1_Jeremy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AAD7_E1_Jeremy" />
+  <component name="RunManager" selected="Application.AAD6_E2_Jeremy">
+    <configuration name="AAD6_E2_Jeremy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAD6_E2_Jeremy" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arreglopregunta1a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglopregunta1a" />
+    <configuration name="AAD7_E1_Jeremy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAD7_E1_Jeremy" />
       <module name="JavaEDA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AAD6_E2_Jeremy" />
         <item itemvalue="Application.AAD7_E1_Jeremy" />
         <item itemvalue="Application.ejemplopc1fdppregunta1" />
         <item itemvalue="Application.ejemplopc1fdppregunta2" />
         <item itemvalue="Application.ejemplopc1fdppregunta0" />
-        <item itemvalue="Application.arreglopregunta1a" />
       </list>
     </recent_temporary>
   </component>
